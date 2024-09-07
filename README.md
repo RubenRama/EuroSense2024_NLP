@@ -1,5 +1,5 @@
-# EuroSense2024_NLP
+# Welcome!
 
-![](img/EuroSense_2024.jpg}
+This repository contains the workshop I delivered as part of the Sensometric Society workshops for Eurosense 2024 in Dublin on 08 September 2024.
 
-Material for EuroSense 2024 Workshop on Natural Language Processing for sensory and consumer data
+![EuroSense 2024](https://github.com/RubenRama/EuroSense2024_NLP/blob/main/img/EuroSense_2024.jpg?raw=true)
